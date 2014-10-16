@@ -1,0 +1,21 @@
+{
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"Base16 Color Schemes",
+		"ColorPicker",
+		"DocBlockr",
+		"Emmet",
+		"JsFormat",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-php",
+		"Tomorrow Color Schemes"
+	]
+}
