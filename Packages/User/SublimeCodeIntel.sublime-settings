@@ -43,7 +43,7 @@
         true - Autocomplete popups as you type (the default).
         false - Autocomplete popups only when you request it.
     */
-    "codeintel_live": true,
+    "codeintel_live": false,
 
     /*
         An array of language names to enable.
