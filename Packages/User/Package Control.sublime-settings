@@ -16,6 +16,7 @@
 		"SublimeLinter-csslint",
 		"SublimeLinter-jshint",
 		"SublimeLinter-php",
+		"SublimeREPL",
 		"Tomorrow Color Schemes"
 	]
 }
