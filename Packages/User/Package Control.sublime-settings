@@ -1,4 +1,12 @@
 {
+	"in_process_packages":
+	[
+	],
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
 	"installed_packages":
 	[
 		"AdvancedNewFile",
@@ -10,6 +18,7 @@
 		"Emmet",
 		"JsFormat",
 		"Package Control",
+		"Ruby on Rails snippets",
 		"Sass",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
